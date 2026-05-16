@@ -1,0 +1,110 @@
+2026-03-18 16:10:04,383 | INFO | Extracting data from data/raw/transactions.csv
+2026-03-18 16:10:09,158 | INFO | Extraction completed successfully
+2026-03-18 16:10:23,110 | INFO | Transformation completed successfully. Saved to data/silver/transformed_transactions.csv
+2026-03-18 16:10:32,048 | INFO | Load completed. Saved 2770409 rows to data/gold/fraud_alerts.db
+2026-03-18 18:33:33,264 | INFO | Extraction completed successfully
+2026-03-18 18:33:47,112 | INFO | Transformation completed successfully. Saved to data/silver/transformed_transactions.csv
+2026-03-18 18:33:55,933 | INFO | Load completed. Saved 2770409 rows to data/gold/fraud_alerts.db
+2026-03-18 18:35:19,938 | INFO | Extraction completed successfully
+2026-03-18 18:35:33,988 | INFO | Transformation completed successfully. Saved to data/silver/transformed_transactions.csv
+2026-03-18 18:35:42,910 | INFO | Load completed. Saved 2770409 rows to data/gold/fraud_alerts.db
+2026-03-18 18:41:43,538 | ERROR | Extraction failed: module 'logger' has no attribute 'info'
+2026-03-18 18:42:48,994 | ERROR | Extraction failed: module 'logger' has no attribute 'info'
+2026-03-18 18:42:53,627 | ERROR | Extraction failed: module 'logger' has no attribute 'info'
+2026-03-18 18:47:33,969 | ERROR | Extraction failed: module 'logger' has no attribute 'info'
+2026-03-18 18:49:02,802 | INFO | MySQL connection established
+2026-03-18 18:49:03,067 | INFO | Data extraction successful
+2026-03-18 18:49:03,076 | INFO | Transformation completed successfully. Saved to data/silver/employee.csv
+2026-03-18 18:49:03,076 | ERROR | Load failed: 'function' object has no attribute 'empty'
+2026-03-18 18:50:45,693 | INFO | MySQL connection established
+2026-03-18 18:50:45,790 | INFO | Data extraction successful
+2026-03-18 18:50:45,799 | INFO | Transformation completed successfully. Saved to data/silver/employee.csv
+2026-03-18 18:50:45,799 | ERROR | Load failed: 'function' object has no attribute 'empty'
+2026-03-18 19:00:00,319 | INFO | MySQL connection established
+2026-03-18 19:00:00,439 | INFO | Data extraction successful
+2026-03-18 19:00:00,446 | INFO | Transformation completed successfully. Saved to data/silver/employee.csv
+2026-03-18 19:00:00,446 | ERROR | Load failed: 'function' object has no attribute 'empty'
+2026-03-18 19:02:54,883 | INFO | MySQL connection established
+2026-03-18 19:02:55,012 | INFO | Data extraction successful
+2026-03-18 19:02:55,018 | INFO | Transformation completed successfully. Saved to data/silver/employee.csv
+2026-03-18 19:02:55,022 | ERROR | Load failed: 'function' object has no attribute 'to_sql'
+2026-03-18 19:03:21,350 | INFO | MySQL connection established
+2026-03-18 19:03:21,439 | INFO | Data extraction successful
+2026-03-18 19:03:21,445 | INFO | Transformation completed successfully. Saved to data/silver/employee.csv
+2026-03-18 19:03:21,828 | ERROR | Load failed: object of type 'function' has no len()
+2026-03-18 19:04:18,438 | INFO | MySQL connection established
+2026-03-18 19:04:18,535 | INFO | Data extraction successful
+2026-03-18 19:04:18,541 | INFO | Transformation completed successfully. Saved to data/silver/employee.csv
+2026-03-18 19:04:56,874 | INFO | MySQL connection established
+2026-03-18 19:04:56,973 | INFO | Data extraction successful
+2026-03-18 19:04:56,979 | INFO | Transformation completed successfully. Saved to data/silver/employee.csv
+2026-03-18 19:21:54,818 | INFO | MySQL connection established
+2026-03-18 19:21:55,062 | INFO | Data extraction successful
+2026-03-18 19:21:55,077 | INFO | Transformation completed successfully. Saved to data/silver/employee.csv
+2026-03-18 19:22:36,310 | INFO | MySQL connection established
+2026-03-18 19:22:36,413 | INFO | Data extraction successful
+2026-03-18 19:22:36,424 | INFO | Transformation completed successfully. Saved to data/silver/employee.csv
+2026-03-18 19:24:37,359 | INFO | MySQL connection established
+2026-03-18 19:24:37,480 | INFO | Data extraction successful
+2026-03-18 19:24:37,497 | INFO | Transformation completed successfully. Saved to data/silver/employee.csv
+2026-03-18 19:25:35,827 | INFO | MySQL connection established
+2026-03-18 19:25:35,957 | INFO | Data extraction successful
+2026-03-18 19:25:35,972 | INFO | Transformation completed successfully. Saved to data/silver/employee.csv
+2026-03-18 19:25:57,997 | INFO | MySQL connection established
+2026-03-18 19:25:58,116 | INFO | Data extraction successful
+2026-03-18 19:25:58,131 | INFO | Transformation completed successfully. Saved to data/silver/employee.csv
+2026-03-18 19:32:05,962 | INFO | MySQL connection established
+2026-03-18 19:32:06,077 | INFO | Data extraction successful
+2026-03-18 19:32:06,093 | INFO | Transformation completed successfully. Saved to data/silver/employee.csv
+2026-03-18 19:33:43,109 | INFO | MySQL connection established
+2026-03-18 19:33:43,229 | INFO | Data extraction successful
+2026-03-18 19:33:43,243 | ERROR | Transformation failed: 'Bunus'
+2026-03-18 19:33:49,981 | INFO | MySQL connection established
+2026-03-18 19:33:50,062 | INFO | Data extraction successful
+2026-03-18 19:33:50,072 | INFO | Transformation completed successfully. Saved to data/silver/employee.csv
+2026-03-18 19:36:51,978 | INFO | MySQL connection established
+2026-03-18 19:36:52,099 | INFO | Data extraction successful
+2026-03-18 19:36:52,117 | INFO | Transformation completed successfully. Saved to data/silver/employee.csv
+2026-03-18 19:37:40,667 | INFO | Extraction completed successfully
+2026-03-18 19:37:53,562 | INFO | Transformation completed successfully. Saved to data/silver/transformed_transactions.csv
+2026-03-18 19:38:04,157 | INFO | Load completed. Saved 2770409 rows to data/gold/fraud_alerts.db
+2026-03-18 21:54:42,167 | INFO | Extraction completed successfully
+2026-03-18 21:54:55,720 | INFO | Transformation completed successfully. Saved to data/silver/transformed_transactions.csv
+2026-03-18 21:55:04,932 | ERROR | Load failed: NDFrame.to_csv() got an unexpected keyword argument 'if_exists'
+2026-03-18 21:56:43,523 | INFO | Extraction completed successfully
+2026-03-18 21:56:56,706 | INFO | Transformation completed successfully. Saved to data/silver/transformed_transactions.csv
+2026-03-18 21:57:15,642 | INFO | Load completed. Saved 2770409 rows to data/gold/fraud_alerts.db
+2026-03-18 21:59:14,745 | INFO | Extraction completed successfully
+2026-03-18 21:59:28,862 | INFO | Transformation completed successfully. Saved to data/silver/transformed_transactions.csv
+2026-03-18 21:59:49,426 | INFO | Load completed. Saved 2770409 rows to data/gold/fraud_alerts.db
+2026-03-18 22:02:06,960 | INFO | Extraction completed successfully
+2026-03-18 22:02:21,021 | INFO | Transformation completed successfully. Saved to data/silver/transformed_transactions.csv
+2026-03-18 22:02:38,877 | INFO | Load completed. Saved 2770409 rows to data/gold/fraud_alerts.db
+2026-03-18 22:52:09,172 | ERROR | Extraction failed: [Errno 2] No such file or directory: 'data/raw/bank_transactions_silver.csv'
+2026-03-18 22:52:32,744 | ERROR | Extraction failed: [Errno 2] No such file or directory: 'data/raw/bank_transactions_silver.csv'
+2026-03-18 22:52:44,659 | ERROR | Extraction failed: [Errno 2] No such file or directory: 'data/raw/bank_transactions_silver.csv'
+2026-03-18 22:53:51,538 | INFO | Extraction completed successfully
+2026-03-18 22:53:51,541 | ERROR | Transformation failed: [Errno 17] File exists: 'data/silver'
+2026-03-18 22:54:06,119 | INFO | Extraction completed successfully
+2026-03-18 22:54:06,132 | INFO | Transformation completed successfully. Saved to data/silver/bank_transactions.csv
+2026-03-18 22:54:06,148 | INFO | Load completed. Saved 2512 rows to data/gold/bank_transactions_gold.db
+2026-03-18 22:55:09,411 | INFO | Extraction completed successfully
+2026-03-18 22:55:09,423 | INFO | Transformation completed successfully. Saved to data/silver/bank_transactions_silver.csv
+2026-03-18 22:55:09,441 | INFO | Load completed. Saved 2512 rows to data/gold/bank_transactions_gold.db
+2026-03-18 23:34:06,898 | INFO | Extraction completed successfully
+2026-03-18 23:34:06,917 | INFO | Transformation completed successfully. Saved to data/silver/bank_transactions_silver.csv
+2026-03-18 23:34:06,937 | INFO | Load completed. Saved 2512 rows to data/gold/bank_transactions_gold.db
+2026-03-18 23:36:03,443 | INFO | Extraction completed successfully
+2026-03-18 23:36:03,461 | INFO | Transformation completed successfully. Saved to data/silver/bank_transactions_silver.csv
+2026-03-18 23:36:03,482 | INFO | Load completed. Saved 2512 rows to data/gold/bank_transactions_gold.db
+2026-03-18 23:38:35,264 | INFO | Extraction completed successfully
+2026-03-18 23:38:35,274 | ERROR | Transformation failed: 'Column not found: City'
+2026-03-18 23:39:07,909 | INFO | Extraction completed successfully
+2026-03-18 23:39:07,949 | INFO | Transformation completed successfully. Saved to data/silver/bank_transactions_silver.csv
+2026-03-18 23:39:07,972 | INFO | Load completed. Saved 2512 rows to data/gold/bank_transactions_gold.db
+2026-03-18 23:45:53,160 | INFO | Extraction completed successfully
+2026-03-18 23:45:53,220 | INFO | Transformation completed successfully. Saved to data/silver/bank_transactions_silver.csv
+2026-03-18 23:45:53,247 | INFO | Load completed. Saved 2512 rows to data/gold/bank_transactions_gold.db
+2026-03-18 23:46:48,083 | INFO | Extraction completed successfully
+2026-03-18 23:46:48,142 | INFO | Transformation completed successfully. Saved to data/silver/bank_transactions_silver.csv
+2026-03-18 23:46:48,170 | INFO | Load completed. Saved 2512 rows to data/gold/bank_transactions_gold.db
